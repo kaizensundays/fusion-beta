@@ -22,7 +22,7 @@ subprojects {
     val jacksonVersion = "2.12.6"
     val ktorVersion = "1.6.7"
     val igniteVersion = "2.11.0"
-    val postgreSqlVersion = "42.3.4"
+    val postgreSqlVersion = "42.3.5"
 
     dependencyManagement {
         dependencies {
